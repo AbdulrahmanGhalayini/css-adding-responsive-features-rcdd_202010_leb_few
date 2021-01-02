@@ -45,6 +45,11 @@ column-count:1;
 .border-right {
   border-width:0px;
 }
+#details div{
+height:auto;
+  
+}
+}
 
 
 }
