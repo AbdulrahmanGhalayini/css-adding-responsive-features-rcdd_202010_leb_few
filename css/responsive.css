@@ -42,5 +42,9 @@ column-count:1;
   margin-left:auto;
   
 }
+.border-right {
+  border-width:0px;
+}
+
 
 }
